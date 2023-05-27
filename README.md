@@ -7,3 +7,5 @@ treasury_cash.py
 
 ![treasury_cash.py](Figure_1.png)
 
+
+![trade_analysis.py](Figure_2.png)
