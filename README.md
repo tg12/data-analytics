@@ -16,6 +16,8 @@ treasury_cash.py
 
 ![trade_analysis.py](Figure_6.png)
 
+![trade_analysis.py](Figure_8.png)
+
 You can also follow me on Twitter at to stay up-to-date on the latest developments.
 
 [Twitter!]( https://twitter.com/James12396379)
